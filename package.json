@@ -1,12 +1,12 @@
 {
-  "name": "pinia-plugin-persistedstate",
+  "name": "pinia-plugin-persistedstate-async",
   "version": "1.6.3",
   "description": "Configurable persistence and rehydration of Pinia stores.",
   "keywords": [
     "pinia",
     "pinia-plugin"
   ],
-  "repository": "https://github.com/prazdevs/pinia-plugin-persistedstate.git",
+  "repository": "https://github.com/jopicornell/pinia-plugin-persistedstate.git",
   "license": "MIT",
   "author": "Sacha 'PraZ' Bouillez",
   "main": "dist/index.js",
